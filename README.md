@@ -9,7 +9,7 @@
         - Adding & Using Tailwind CSS In A React Project
         - Tailwind: Media Queries & Pseudo Selectors
         - Dynamic & Conditional Styling with Tailwind
-    - Static & **Dynamic (Conditional)** Styling
+    - Static & **Dynamic (Conditional)** Styling 
  
   **Resources:**
   - https://vanillacss.com/
