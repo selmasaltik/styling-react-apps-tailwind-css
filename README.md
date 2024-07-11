@@ -6,6 +6,9 @@
     - **Scoping** Styles with **CSS Modules**
     - **CSS-in-JS** Styling with **“Styled Components”**
     - Styling with **Tailwind CSS**
+        - Adding & Using Tailwind CSS In A React Project
+        - Tailwind: Media Queries & Pseudo Selectors
+        - Dynamic & Conditional Styling with Tailwind
     - Static & **Dynamic (Conditional)** Styling
  
   **Resources:**
